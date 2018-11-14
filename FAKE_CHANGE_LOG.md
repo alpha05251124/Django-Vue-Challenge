@@ -23,3 +23,4 @@
 2018-11-10 16:34:53 +0000 - update code
 2018-11-14 19:16:50 +0000 - improve function
 2018-11-14 17:18:14 +0000 - improve function
+2018-11-14 14:06:50 +0000 - update docs
